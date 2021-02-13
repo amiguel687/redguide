@@ -1,0 +1,23 @@
+#main-page{
+    .panel-weather{
+        h4{
+            font-size:18px;
+        }
+        .city-name{
+            font-size:35px;
+        }
+        .city-degrees{
+            font-size:25px;
+        }
+    }
+    .panel-venue{
+        .no-venue-found{
+            i{
+                font-size:40px;
+            }
+        }
+        .btn-get-directions{
+            cursor: pointer;
+        }
+    }
+}

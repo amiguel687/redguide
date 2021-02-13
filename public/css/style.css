@@ -1,0 +1,56 @@
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+#top-nav {
+  background: #a83936;
+  color: white;
+}
+#top-nav h4 {
+  font-style: italic;
+}
+
+.content-padding {
+  padding-top: 40px;
+}
+
+.hero-content {
+  background: url("https://swebackpacker.files.wordpress.com/2015/06/dsc2879.jpg") no-repeat;
+  background-size: cover;
+  padding: 60px 10px;
+  background-position-y: center;
+  color: white;
+}
+.hero-content h4 {
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 2px 2px #000;
+}
+.hero-content p {
+  font-size: 18px;
+  text-shadow: 2px 2px #000;
+}
+.hero-content .btn-venue-category {
+  padding: 10px 37px;
+  color: white;
+  background: #d7713b;
+}
+
+#main-page .panel-weather h4 {
+  font-size: 18px;
+}
+#main-page .panel-weather .city-name {
+  font-size: 35px;
+}
+#main-page .panel-weather .city-degrees {
+  font-size: 25px;
+}
+#main-page .panel-venue .no-venue-found i {
+  font-size: 40px;
+}
+#main-page .panel-venue .btn-get-directions {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */
